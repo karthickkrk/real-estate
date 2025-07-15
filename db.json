@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "address": "12 Valley of Kings, Geneva",
+    "country": "Switzerland",
+    "price": 90000
+  },
+  {
+    "id": 2,
+    "address": "45 Sunset Blvd, Los Angeles",
+    "country": "USA",
+    "price": 120000
+  },
+  {
+    "id": 3,
+    "address": "78 Queens Road, London",
+    "country": "UK",
+    "price": 100000
+  },
+  {
+    "id": 4,
+    "address": "5 Champs-Élysées, Paris",
+    "country": "France",
+    "price": 95000
+  },
+  {
+    "id": 5,
+    "address": "33 Harbour View, Sydney",
+    "country": "Australia",
+    "price": 110000
+  },
+  {
+    "id": 6,
+    "address": "17 Maple Street, Toronto",
+    "country": "Canada",
+    "price": 98000
+  },
+  {
+    "id": 7,
+    "address": "88 Sakura Lane, Tokyo",
+    "country": "Japan",
+    "price": 105000
+  },
+  {
+    "id": 8,
+    "address": "23 Lotus Avenue, New Delhi",
+    "country": "India",
+    "price": 87000
+  },
+  {
+    "id": 9,
+    "address": "9 Marina Bay, Singapore",
+    "country": "Singapore",
+    "price": 115000
+  },
+  {
+    "id": 10,
+    "address": "101 Skyline Blvd, Dubai",
+    "country": "UAE",
+    "price": 130000
+  }
+]
